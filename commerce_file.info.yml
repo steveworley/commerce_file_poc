@@ -1,0 +1,8 @@
+name: Commerce File
+type: module
+description: Provides the ability to sell access to files.
+package: Commerce
+core: 8.x
+dependencies:
+  - commerce_license
+
